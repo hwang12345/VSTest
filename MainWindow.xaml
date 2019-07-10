@@ -80,6 +80,10 @@
             <Button Width="70" Height="50" Margin="10" Content="Test"  Name="ButtonTrigger1" Style="{StaticResource BigFontButton}"></Button>
             <Button Width="70" Height="50" Margin="10" Content="Test"  Name="ButtonTrigger2" Style="{StaticResource BigFontButton1}"></Button>
             <Button Width="70" Height="50" Margin="10" Content="Test"  Name="ButtonTrigger3" Style="{StaticResource BigFontButton2}"></Button>
+            <Button Width="70" Height="50" Margin="10" Content="Test"  Name="ButtonTrigger4" Style="{StaticResource BigFontButton2}"></Button>
+            <Button Width="70" Height="50" Margin="10" Content="Test"  Name="ButtonTrigger5" Style="{StaticResource BigFontButton2}"></Button>
+            <Button Width="70" Height="50" Margin="10" Content="Test"  Name="ButtonTrigger6" Style="{StaticResource BigFontButton2}"></Button>
+            <Button Width="70" Height="50" Margin="10" Content="Test"  Name="ButtonTrigger7" Style="{StaticResource BigFontButton2}"></Button>
 
         </StackPanel>
         <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="375,120,0,0" VerticalAlignment="Top" Height="219" Width="349" Background="Black" Checked="RadioButton_Checked"/>
